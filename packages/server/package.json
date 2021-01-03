@@ -1,0 +1,22 @@
+{
+  "name": "@love-letter-the-game/server",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "DenisMarusevich <denis@shapediver.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "src/index.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@love-letter-the-game/configs": "^0.0.1"
+  }
+}

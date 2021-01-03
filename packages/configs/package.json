@@ -1,0 +1,25 @@
+{
+  "name": "@love-letter-the-game/configs",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "DenisMarusevich <denis@shapediver.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/configs.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-typescript": "^7.12.7"
+  },
+  "dependencies": {}
+}
